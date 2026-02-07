@@ -21,7 +21,7 @@ The free version includes the core city generation script:
 - **Automatic height calculation** - Buildings and decor placed at correct heights
 - **Random seed support** - Reproducible or random generation
 
-[View Full Documentation for CityMaker](#citymaker-documentation)
+[Download](https://github.com/sanjaymeherdev/Grid-City-Maker/releases)
 
 ---
 
